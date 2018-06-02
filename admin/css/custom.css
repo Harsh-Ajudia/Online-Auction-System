@@ -1,0 +1,25 @@
+.leftSide .nav-link{
+	border-bottom: 0.5px solid #eee;
+	color: #fff;
+	border-radius:0;
+	width: 100%;
+	padding: 15px;
+}
+.leftRow .col-md-2{
+	padding:20px 0 0 0;
+}
+.leftRow .col-md-10{
+	padding-top: 20px;
+}
+.leftSide .nav-link.active,
+.leftSide .nav-link:hover{
+	
+}
+
+.car_image_show{
+	width: 200px;
+	height: 112px;
+}
+.car_image_show img{
+	width: 100%;
+}
